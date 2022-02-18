@@ -7,4 +7,15 @@ theme = "hello-friend-ng"
   identifier = "blog"
   name = "Blog"
   url = "/posts"
-
+[[menu.main]]
+  identifier = "books"
+  name = "Books"
+  url = "/books"
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about"
+[[menu.main]]
+  identifier = "projects"
+  name = "Projects"
+  url = "/projects"
