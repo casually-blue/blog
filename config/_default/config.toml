@@ -1,0 +1,10 @@
+baseURL = 'http://me.sierra-lang.net/'
+languageCode = 'en-us'
+title = 'Personal Website and Blog'
+theme = "hello-friend-ng"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts"
+
